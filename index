@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Underviserintro – AI-systembot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .highlight {
+      background-color: #e6f0ff;
+      padding: 10px;
+      border-left: 4px solid #004080;
+    }
+  </style>
+</head>
+<body>
+  <h1>Underviserintro – AI-forløb: Design din egen systembot</h1>
+
+  <section>
+    <h2>🎯 Formål med forløbet</h2>
+    <p class="highlight">
+      Eleverne skal designe en AI-chatbot, der løser en konkret arbejdsproces i handelsbranchen.
+      Formålet er at styrke deres digitale og analytiske kompetencer gennem problemløsning og innovation.
+    </p>
+  </section>
+
+  <section>
+    <h2>📅 Struktur og tidsforbrug</h2>
+    <ul>
+      <li><strong>Dag 1</strong>
+        <ul>
+          <li>Lektion 1: Introduktion til AI og opgaven</li>
+          <li>Lektion 2-6: Selvstændigt elevarbejde med vejledning</li>
+        </ul>
+      </li>
+      <li><strong>Dag 2</strong>
+        <ul>
+          <li>Lektion 7: Præsentation og evaluering</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>👨‍🏫 Underviserens rolle</h2>
+    <ul>
+      <li>Vejlede elever i idéudvikling og problemformulering</li>
+      <li>Sikre forståelse for VØ og EI</li>
+      <li>Hjælpe med promptskrivning og teknisk opsætning</li>
+      <li>Give feedback og styre præsentationer dag 2</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📚 Materialer og forberedelse</h2>
+    <p><strong>Tilgængelige materialer:</strong></p>
+    <ul>
+      <li>Elevhæfte med guides og skabeloner</li>
+      <li>Slidesæt til introduktion</li>
+      <li>Eksempelløsning</li>
+      <li>Problemforslag og dagsplan</li>
+    </ul>
+    <p><strong>Forberedelse:</strong></p>
+    <ul>
+      <li>Tjek adgang til ChatGPT</li>
+      <li>Gennemgå eksempelløsning og teori</li>
+    </ul>
+  </section>
+
+</body>
+</html>
